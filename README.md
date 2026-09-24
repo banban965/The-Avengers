@@ -35,4 +35,7 @@ The Avengers Hacking Tool Kits
 | HDB Chats [FreeDom Chat] | ✅ |
 | Subscribe Etaa [Sub Etaa Channel] | ✅ |
 | Subscribe GitHub [Sub GitHub Account] | ✅ |
-| 
+| Settings [Avengers Settings] | ✅ |
+| Exit [Don't Select This] | ✅ |
+~~All Is Working~~
+****
