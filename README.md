@@ -17,16 +17,17 @@ The Avengers Hacking Tool Kits
 ****
 | Tools   | Status |
 |---------|--------|
-| RAT (Remote Access Trojan) | ✅ |
-| DDoS (Distributed Denial of Service) | ✅ |
-| SMS Bomber (For Iran) | ✅ |
-| CCTv Hack (Hack IP Camera) | ✅ |
-| Birds (Better Dirb) | ✅ |
-| Phishing Page (Fake Login Page) | ✅ |
-| WordGenPro (WordList Creator) | ✅ |
-| UFIS (Ultra Fast Internet Speed) | ✅ |
-| OP Compressor (6.7GB TXT To 256MB) | ✅ |
-| NFC Drop (Android Air Drop) | ✅ |
-| Web Chat (Via Flask) | ✅ |
-| NanoGen Ai (Ask Ai) | ✅ |
+| RAT [Remote Access Trojan] | ✅ |
+| DDoS [Distributed Denial of Service] | ✅ |
+| SMS Bomber [For Iran] | ✅ |
+| CCTv Hack [Hack IP Camera] | ✅ |
+| Birds [Better Dirb] | ✅ |
+| Phishing Page [Fake Login Page] | ✅ |
+| WordGenPro [WordList Creator] | ✅ |
+| UFIS [Ultra Fast Internet Speed] | ✅ |
+| OP Compressor [6.7GB TXT To 256MB] | ✅ |
+| NFC Drop [Android Air Drop] | ✅ |
+| Web Chat [Via Flask] | ✅ |
+| NanoGen Ai [Ask Ai] | ✅ |
+| Thor Browser [ThorLe] | ✅ |
 
