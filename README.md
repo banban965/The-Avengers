@@ -20,3 +20,8 @@ The Avengers Hacking Tool Kits
 | RAT     | ✅ |
 | DDoS    | ✅ |
 | SMS Bomber | ✅ |
+| CCTv Hack | ✅ |
+| Birds (Better Dirb) | ✅ |
+| 
+| 
+| 
