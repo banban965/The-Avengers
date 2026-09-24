@@ -24,4 +24,4 @@ The Avengers Hacking Tool Kits
 | Birds (Better Dirb) | ✅ |
 | Phishing Page | ✅ |
 | WordGenPro (WordList Creator) | ✅ |
-| 
+| UFIS (Ultra Fast Internet Speed | ✅ |
