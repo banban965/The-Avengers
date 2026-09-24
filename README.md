@@ -38,5 +38,6 @@ The Avengers Hacking Tool Kits
 | Settings [Avengers Settings] | ✅ |
 | Exit [Don't Select This] | ✅ |
 | I Have Bug | ❌ |
-|----------|---------|
 ****
+| Feature | Status|
+|---------|--------|
