@@ -48,7 +48,7 @@ The Avengers Hacking Tool Kits
 | Logo | ✅ |
 | Color | ✅ |
 ****
-| Device Limiters |
+| Device | Limiters |
 |---------|--------|
 | Android 7 | ❌ |
 | 1024Mib Ram | ❌ |
