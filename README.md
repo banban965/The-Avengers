@@ -22,6 +22,6 @@ The Avengers Hacking Tool Kits
 | SMS Bomber | ✅ |
 | CCTv Hack | ✅ |
 | Birds (Better Dirb) | ✅ |
-| 
-| 
+| Phishing Page | ✅ |
+| WordGenPro (WordList Creator) | ✅ |
 | 
