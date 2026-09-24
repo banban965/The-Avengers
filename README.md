@@ -54,3 +54,11 @@ The Avengers Hacking Tool Kits
 | 1024Mib Ram | ❌ |
 | 16Gib Rom | ❌ |
 | 1405 MHz Cpu | ❌ |
+****
+
+| Supported | Device |
+|---------|--------|
+| Android 12+ | ✅ |
+| 4Gib Ram | ✅ |
+| 32Gib Rom | ✅ |
+| 2002 MHz Cpu | ✅ |
