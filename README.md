@@ -44,3 +44,7 @@ The Avengers Hacking Tool Kits
 | Cleaner | ✅ |
 | Music | ✅ |
 | Device Checker | ✅ |
+| Easter Egg | ✅ |
+| Logo | ✅ |
+| Color | ✅ |
+****
