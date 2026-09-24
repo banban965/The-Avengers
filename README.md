@@ -24,4 +24,12 @@ The Avengers Hacking Tool Kits
 | Birds (Better Dirb) | ✅ |
 | Phishing Page | ✅ |
 | WordGenPro (WordList Creator) | ✅ |
-| UFIS (Ultra Fast Internet Speed | ✅ |
+| UFIS (Ultra Fast Internet Speed) | ✅ |
+| OP Compressor (6.7GB TXT To 256MB) | ✅ |
+| 
+| 
+| 
+| 
+| 
+| 
+
