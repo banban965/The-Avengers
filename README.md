@@ -41,3 +41,6 @@ The Avengers Hacking Tool Kits
 ****
 | Feature | Status|
 |---------|--------|
+| Cleaner | ✅ |
+| Music | ✅ |
+| Device Checker | ✅ |
