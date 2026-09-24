@@ -9,3 +9,8 @@ The Avengers Hacking Tool Kits
 ****
 `python Avengers.py`
 ****
+| Feature | Status |
+|---------|--------|
+| Login  | ✅ |
+| API    | ✅ |
+| Tests  | 🚧 |
