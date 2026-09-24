@@ -1,0 +1,42 @@
+{
+    "project": "Nano Gen",
+    "model": "GEN-7M",
+    "time": "2026-08-22T21:46:48.250197",
+    "system": {
+        "python": "3.14.6",
+        "platform": "Android-15-aarch64-64bit-ELF",
+        "system": "Android",
+        "machine": "aarch64",
+        "architecture": "64bit"
+    },
+    "files": [
+        "README.md",
+        "__pycache__/chat.cpython-314.pyc",
+        "__pycache__/commands.cpython-314.pyc",
+        "__pycache__/config.cpython-314.pyc",
+        "__pycache__/database.cpython-314.pyc",
+        "__pycache__/debug.cpython-314.pyc",
+        "__pycache__/reader.cpython-314.pyc",
+        "__pycache__/rish.cpython-314.pyc",
+        "__pycache__/settings.cpython-314.pyc",
+        "__pycache__/stats.cpython-314.pyc",
+        "__pycache__/termux.cpython-314.pyc",
+        "__pycache__/ui.cpython-314.pyc",
+        "builder.py",
+        "chat.py",
+        "commands.py",
+        "config.py",
+        "data/answers.json",
+        "data/settings.json",
+        "data/stats.json",
+        "database.py",
+        "debug.py",
+        "main.py",
+        "reader.py",
+        "rish.py",
+        "settings.py",
+        "stats.py",
+        "termux.py",
+        "ui.py"
+    ]
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Scanner</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h1>📡 Network Scanner</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>IP</th>
+                <th>MAC</th>
+                <th>Hostname</th>
+            </tr>
+        </thead>
+
+        <tbody>
+        {% for d in devices %}
+            <tr>
+                <td>{{ loop.index }}</td>
+                <td>{{ d.ip }}</td>
+                <td>{{ d.mac }}</td>
+                <td>{{ d.hostname }}</td>
+            </tr>
+        {% else %}
+            <tr>
+                <td colspan="4">هیچ دستگاهی پیدا نشد.</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <br>
+    <button onclick="location.reload()">🔄 Refresh</button>
+</div>
+
+</body>
+</html>
