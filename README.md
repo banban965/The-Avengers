@@ -37,5 +37,6 @@ The Avengers Hacking Tool Kits
 | Subscribe GitHub [Sub GitHub Account] | ✅ |
 | Settings [Avengers Settings] | ✅ |
 | Exit [Don't Select This] | ✅ |
-| I Have Bug | ❎ |
+| I Have Bug | ❌ |
+|----------|---------|
 ****
