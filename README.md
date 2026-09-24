@@ -33,6 +33,6 @@ The Avengers Hacking Tool Kits
 | HDB Boost [Heavy Dynamic Booster] | ✅ |
 | Net Scanners [Scan WiFi Connection] | ✅ |
 | HDB Chats [FreeDom Chat] | ✅ |
-| Subscribe Telegram [Sub Telegram Channel] | ✅ |
-| 
+| Subscribe Etaa [Sub Etaa Channel] | ✅ |
+| Subscribe GitHub [Sub GitHub Account] | ✅ |
 | 
