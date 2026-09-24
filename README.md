@@ -30,4 +30,9 @@ The Avengers Hacking Tool Kits
 | Web Chat [Via Flask] | ✅ |
 | NanoGen Ai [Ask Ai] | ✅ |
 | Thor Browser [ThorLe] | ✅ |
-
+| HDB Boost [Heavy Dynamic Booster] | ✅ |
+| Net Scanners [Scan WiFi Connection] | ✅ |
+| HDB Chats [FreeDom Chat] | ✅ |
+| Subscribe Telegram [Sub Telegram Channel] | ✅ |
+| 
+| 
