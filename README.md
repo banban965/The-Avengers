@@ -14,3 +14,9 @@ The Avengers Hacking Tool Kits
 | Windows | ✅ |
 | Linux   | ✅ |
 | Termux  | ✅ |
+****
+| Tools   | Status |
+|---------|--------|
+| RAT     | ✅ |
+| DDoS    | ✅ |
+|
